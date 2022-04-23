@@ -9,3 +9,10 @@ Hmm, It depends
 ## Bundling or UnBundling
 You guessed it, It depends.
 
+## How to adopt Data Mesh?
+It depends on...
+
+## Data Lake or Data Warehouse
+well, It depends
+
+
