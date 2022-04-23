@@ -1,8 +1,12 @@
 # It Depends
 The ultimate glossary to answer all the burning data engineering questions you wish you know.
 
-## How to contribute?
-Create a PR with your question & don't worry about the answer. We all know It Depends! 
+### What is Modern Data Stack (MDS)
+It's a tough one, well it depends
 
-## Should I contribute?
-Well, It depends
+### What is a metric layer?
+Hmm, It depends
+
+### Bundling or UnBundling
+You guessed it, It depends.
+
